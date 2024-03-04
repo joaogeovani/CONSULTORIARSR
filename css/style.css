@@ -34,14 +34,6 @@ header{
     width: 125px;
 }
 
-.cabecalho{
-    justify-content: center;
-    align-items: center;
-    display: inline;
-    margin-top: 30px;
-    margin-right: 100px;
-}
-
 .cabecalho ul {
     display: flex;
     gap: 20px;
