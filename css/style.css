@@ -34,11 +34,6 @@ header{
     width: 125px;
 }
 
-.cabecalho ul {
-    display: flex;
-    gap: 20px;
-    text-shadow: -3px 1px 8px #000;
-}
 
 .banner {
     background-color: rgba(69, 69, 69, 1.0);
